@@ -1,8 +1,8 @@
-# Happy Pet Store Thread Synchronization Project
+# Pet Store Thread Synchronization Project
 
 ## Description
 
-This project simulates the operations of the Happy Pet store during a pet adoption event using Java threads and synchronization methods provided by the Thread class. The scenario involves customers arriving at the store, shopping for pet supplies, and potentially adopting pets. Cashiers and an adoption clerk assist customers in a coordinated manner.
+This project simulates the operations of a pet store during a pet adoption event using Java threads and synchronization methods provided by the Thread class. The scenario involves customers arriving at the store, shopping for pet supplies, and potentially adopting pets. Cashiers and an adoption clerk assist customers in a coordinated manner.
 
 ## Project Structure
 
