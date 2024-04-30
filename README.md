@@ -1,4 +1,4 @@
-# Happy Pet Store Thread Project
+# Happy Pet Store Thread Synchronization Project
 
 ## Description
 
